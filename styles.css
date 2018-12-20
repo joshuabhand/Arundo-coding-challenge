@@ -15,7 +15,6 @@
 }
 .logo-pic {
   width: 150px;
-  content:url("https://cdn.pixabay.com/photo/2016/10/27/22/53/heart-1776746__340.jpg");
 }
 .section {
   display: inline-block;
@@ -26,17 +25,16 @@
 }
 .icon {
   width: 100px;
-  content:url("https://www.redcoolmedia.net/images/xwebphotostudioicon128.jpg.pagespeed.ic.-_JatqScbk.jpg");
 }
 ul {
   list-style-type: none;
 }
+.more-links {
+    font-weight: bold;
+    font-size: 20px;
+}
 li:not(:last-child) {
     margin-bottom: 10px;
-}
-lh {
-  font-weight:bold;
-  font-size: 22px;
 }
 .vertical-divider {
   width: 1px;
