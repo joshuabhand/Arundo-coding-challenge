@@ -1,0 +1,49 @@
+.menu {
+  display: inline-block;
+  border: 1px solid black; 
+  padding: 20px;
+}
+.main-logo {
+  display: inline-block;
+  width: 200px;
+  background-color: powderblue;
+  padding: 5px;
+  text-align: center;
+}
+.intro {
+  text-align: left;
+}
+.logo-pic {
+  width: 150px;
+  content:url("https://cdn.pixabay.com/photo/2016/10/27/22/53/heart-1776746__340.jpg");
+}
+.section {
+  display: inline-block;
+  width: 200px;
+  background-color: #ff9999;
+  padding: 5px;
+  text-align: center;
+}
+.icon {
+  width: 100px;
+  content:url("https://www.redcoolmedia.net/images/xwebphotostudioicon128.jpg.pagespeed.ic.-_JatqScbk.jpg");
+}
+ul {
+  list-style-type: none;
+}
+li:not(:last-child) {
+    margin-bottom: 10px;
+}
+lh {
+  font-weight:bold;
+  font-size: 22px;
+}
+.vertical-divider {
+  width: 1px;
+  margin: 5px;
+  height: 150px;
+  display: inline-block;
+}
+.more-links {
+  display: inline-block
+}
